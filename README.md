@@ -32,12 +32,19 @@ An attacker can spoof any MAC address and flood a network with deauth frames, fo
 ## Project Structure
 wifi-deauth-detector/
 ├── detector.py        # Core sniffer + detection engine
+
 ├── alerter.py         # Alert formatter and trigger
+
 ├── logger.py          # JSON log writer
+
 ├── config.py          # Thresholds and interface config
+
 ├── simulator.py       # Generates test PCAP with deauth frames
+
 ├── requirements.txt
+
 └── deauth_log.json    # Auto-created on first detection
+
 ---
 
 ## Requirements
