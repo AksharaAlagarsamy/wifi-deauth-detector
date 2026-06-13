@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 10
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 11
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 12
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 13
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 14
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 15
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 16
+  },
+  {
+    "timestamp": "2026-06-13 04:39:19",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 17
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 18
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 19
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 20
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 21
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 22
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 23
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 24
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 25
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 26
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 27
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 28
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 29
+  },
+  {
+    "timestamp": "2026-06-13 04:39:20",
+    "type": "DEAUTH",
+    "src_mac": "aa:bb:cc:dd:ee:ff",
+    "count": 30
+  }
+]
